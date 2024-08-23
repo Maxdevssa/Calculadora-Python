@@ -1,2 +1,2 @@
-### calculadora desenvolvida em python no ambiente google colab
+### Calculadora desenvolvida em python no ambiente google colab
 ### Totalmente funcional com todas as operações aritiméticas 
